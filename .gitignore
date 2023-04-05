@@ -1,0 +1,8 @@
+# Ignore binary files
+frontend/frontApp
+broker-service/brokerApp
+authentication-service/authApp
+
+# Ignore files and folders in project/db-data/postgres/
+project/db-data/postgres/*
+
