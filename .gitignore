@@ -2,7 +2,7 @@
 frontend/frontApp
 broker-service/brokerApp
 authentication-service/authApp
+logger-service/loggerApp
 
 # Ignore files and folders in project/db-data/postgres/
-project/db-data/postgres/*
-
+project/db-data/*
