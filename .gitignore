@@ -1,3 +1,5 @@
+*/.idea
+
 # Ignore binary files
 frontend/frontApp
 broker-service/brokerApp
